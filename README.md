@@ -6,11 +6,11 @@
 
 （1）工具运行：
 
-![](.\images\1-1.png)
+![](/images/1-1.png)
 
 （2）邮件告警：
 
-![](.\images\1-2.png)
+![](/images/1-2.png)
 
 
 
